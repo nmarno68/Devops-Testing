@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b89b687e-8ae3-4074-bbee-6dc7adb9536f" name="Default Changelist" comment="" />
+    <list default="true" id="b89b687e-8ae3-4074-bbee-6dc7adb9536f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/testsuite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unittests/GameDriver/GameDriverTestSuite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/unittests/GameDriver/GameDriverTests/StartAnotherGameTests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BlackJack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BlackJack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BlackJack.py" beforeDir="false" afterPath="$PROJECT_DIR$/BlackJack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dealer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dealer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameDriver.py" beforeDir="false" afterPath="$PROJECT_DIR$/GameDriver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Player.py" beforeDir="false" afterPath="$PROJECT_DIR$/Player.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +22,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YMpC4tsJJD6nOWQVKcVW6pC2je" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +39,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="BlackJack" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="BlackJack" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/unittests/GameDriver/GameDriverTests" />
+      <recent name="$PROJECT_DIR$/tests/unittests/GameDriver" />
+      <recent name="$PROJECT_DIR$/tests/unittests" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,9 +81,19 @@
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state x="2336" y="345" width="598" height="390" key="#com.intellij.fileTypes.FileTypeChooser/1680.0.1920.1080/0.30.1680.1050@1680.0.1920.1080" timestamp="1582762263206" />
-    <state x="2296" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1582762190312">
-      <screen x="1680" y="0" width="1920" height="1080" />
+    <state x="2073" y="169" key="SettingsEditor" timestamp="1582854778799">
+      <screen x="1680" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2073" y="169" key="SettingsEditor/67.27.1613.1023/1680.0.1680.1050@1680.0.1680.1050" timestamp="1582854778799" />
+    <state x="2369" y="174" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1582846376746" />
+    <state x="2219" y="357" key="com.intellij.ide.util.TipDialog" timestamp="1582850284946">
+      <screen x="1680" y="0" width="1680" height="1050" />
     </state>
     <state x="2296" y="367" key="com.intellij.ide.util.TipDialog/1680.0.1920.1080/0.30.1680.1050@1680.0.1920.1080" timestamp="1582762190312" />
+    <state x="2219" y="357" key="com.intellij.ide.util.TipDialog/67.27.1613.1023/1680.0.1680.1050@1680.0.1680.1050" timestamp="1582850284946" />
+    <state x="2183" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1582854766686">
+      <screen x="1680" y="0" width="1680" height="1050" />
+    </state>
+    <state x="2183" y="230" width="672" height="678" key="search.everywhere.popup/67.27.1613.1023/1680.0.1680.1050@1680.0.1680.1050" timestamp="1582854766686" />
   </component>
 </project>
